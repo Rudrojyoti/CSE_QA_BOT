@@ -56,16 +56,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Subject Selector | Q&A Interface | Answer View |
-|:---:|:---:|:---:|
-| `[screenshot-subjects.png]` | `[screenshot-qa.png]` | `[screenshot-answer.png]` |
-
-> 📌 Replace placeholders with actual screenshots after first run.
-
----
-
 ## 🚀 Quick Start
 
 <details>
